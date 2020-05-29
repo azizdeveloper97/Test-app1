@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Which among the following is the shortcut key for Help in your computer system?",
+        "optionA": "F1",
+        "optionB": "F2",
+        "optionC": "F9",
+        "optionD": "Ctrl + F",
+        "answer": "F1"
+    },
+    {
+        "question": "The storage device, which retains data even after power cut, is known as …",
+        "optionA": "Direct storage",
+        "optionB": "In-direct storage",
+        "optionC": "Non-volatile storage",
+        "optionD": "Volatile storage",
+        "answer": "Non-volatile storage"
+    },
+    {
+        "question": "If you need to cut the contents of MS Word, which command will you give?",
+        "optionA": "Ctrl + X",
+        "optionB": "Ctrl + C",
+        "optionC": "Ctrl + V",
+        "optionD": "Ctrl + Z",
+        "answer": "Ctrl + X"
+    },
+    {
+        "question": "Which among the following services is not provided by the internet?",
+        "optionA": "Money transfer",
+        "optionB": "Booking of movie ticket",
+        "optionC": "Making friendship",
+        "optionD": "Delivering Nike shoe",
+        "answer": "Delivering Nike shoe"
+    },
+    {
+        "question": "The malicious software program, which is detrimental to other computers is known as …",
+        "optionA": "Virus",
+        "optionB": "Worms",
+        "optionC": "Trojans",
+        "optionD": "Spyware",
+        "answer": "Virus"
+    },
+    {
+        "question": "On a computer keyboard some keys are given twice; which among following is given only once?",
+        "optionA": "Alt key",
+        "optionB": "Shift key",
+        "optionC": "Ctrl key",
+        "optionD": "Tab key",
+        "answer": "Tab key"
+    },
+    {
+        "question": "The address of a website is known as…",
+        "optionA": "Website Resource Locator",
+        "optionB": "Uniform Resource Locator",
+        "optionC": "Wireless Resource Locator",
+        "optionD": "Electronic Address",
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "When someone copy/cut selected content, it get stored at…",
+        "optionA": "Mouse",
+        "optionB": "Motherboard",
+        "optionC": "Clipboard",
+        "optionD": "Keyboard",
+        "answer": "Clipboard"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "optionA": "Alexander Graham Bell",
+        "optionB": "Sir Isaac Newton",
+        "optionC": "Leonardo Da Vinci",
+        "optionD": "Albert Einstein",
+        "answer": "Leonardo Da Vinci"
+    },
+    {
+        "question": "Who invented the electric light bulb?",
+        "optionA": "Tom Cruise",
+        "optionB": "Barack Obama",
+        "optionC": "Wole Soyinka",
+        "optionD": "Thomas Edison",
+        "answer": "Thomas Edison"
+    }
+]
